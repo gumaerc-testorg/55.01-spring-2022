@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "Italian"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "1c0811c6-f20a-4fac-b2b8-b551b2c075b5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9f934f76-5370-48bf-a4a6-52bf219006cb",
+    "website": "cherlizabeth-test-site"
+  },
+  "course_title": "Cherlizabeth Test Site",
+  "course_description": "This is your description of the course for the home page",
+  "department_numbers": [
+    "1",
+    "7"
+  ],
+  "extra_course_numbers": "55.011, 7.591",
+  "primary_course_number": "55.01",
+  "course_image_thumbnail": {
+    "content": "c068ba18-a6c8-4de3-af4f-85b9daed7c22",
+    "website": "cherlizabeth-test-site"
+  },
+  "learning_resource_types": [
+    "Course Introduction",
+    "Online Textbook",
+    "Exams with Solutions"
+  ],
+  "site_uid": "6d4bce35-086f-423d-8ffe-f2e1f4ba86a0",
+  "site_short_id": "55.01-spring-2022"
+}
