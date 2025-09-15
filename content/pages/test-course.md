@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: 'test course '
-draft: false
+draft: true
 title: test course
 uid: 991738a9-b433-4ce0-856a-2acb31868507
 ---

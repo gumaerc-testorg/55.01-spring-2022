@@ -1,6 +1,7 @@
 ---
 content_type: page
-draft: false
+description: ' '
+draft: true
 title: Syllabus
 uid: aa6ad354-7c43-4662-badb-8eca20dc8445
 ---
