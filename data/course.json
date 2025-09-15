@@ -40,10 +40,10 @@
     "website": "cherlizabeth-test-site"
   },
   "learning_resource_types": [
-    "Course Introduction",
-    "Online Textbook",
+    "Open Textbooks",
     "Exams with Solutions"
   ],
   "site_uid": "6d4bce35-086f-423d-8ffe-f2e1f4ba86a0",
-  "site_short_id": "55.01-spring-2022"
+  "site_short_id": "55.01-spring-2022",
+  "site_url_path": "courses/55-01-cherlizabeth-test-site-spring-2022"
 }
