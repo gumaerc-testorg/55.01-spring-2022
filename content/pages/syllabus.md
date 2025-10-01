@@ -20,7 +20,7 @@ Recitations: 2 sessions / week, 1 hour / session
 
 ## **PREREQUISITES**
 
-Students must have completed *8.03 Physics III: Vibrations and Waves* (or [*6.013 Electromagnetics and Applications*](https://ocw.mit.edu/courses/6-013-electromagnetics-and-applications-spring-2009)) and [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011) (or [*18.034 Honors Differential Equations*](https://ocw.mit.edu/courses/18-034-honors-differential-equations-spring-2009)) with grades of C or higher.
+Students must have completed *8.03 Physics III: Vibrations and Waves* (or {{% resource_link "8eaf995d-b618-4008-8327-19224344caa0" "*6.013 Electromagnetics and Applications*" %}}) and {{% resource_link "0ebc1d91-4be7-4572-a393-edd7240a2847" "*18.03 Differential Equations*" %}} (or {{% resource_link "9500c943-acbc-4e11-a2dd-d683e4a18f6d" "*18.034 Honors Differential Equations*" %}}) with grades of C or higher.
 
 ## **DESCRIPTION**
 
